@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/rschellius/programmeren4-nodeserver/issues"
   },
-  "homepage": "https://github.com/rschellius/programmeren4-nodeserver#readme"
+  "homepage": "https://github.com/rschellius/programmeren4-nodeserver#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
